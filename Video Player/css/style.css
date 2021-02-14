@@ -1,0 +1,59 @@
+ h3{
+   
+    text-align: center;
+    font-size: 2em;
+    font-weight: 300;
+    margin-bottom:10px;
+}
+ 
+ .video  {
+   
+   width: 640px;
+   height: 360px;
+   position: relative;
+   top:0;
+   left:335px;
+   
+}
+
+.video .avid{
+    padding:6px;
+}
+
+.video  #vimg{
+    display: inline-block;
+    width: 306px;
+    height: 178px;
+    
+}
+
+.video #firstvid{
+    max-width: 640px;
+    height: 360px;
+}
+
+
+.video #secondvid{
+    box-sizing: border-box;
+    width: 640px;
+    height: 360px;
+}
+
+
+.video #thirdvid{
+    width: 640px;
+    height: 360px;
+}
+
+
+
+.image  #vimg{
+    width: 309px;
+    height: 200px;
+    
+}
+
+
+
+
+
